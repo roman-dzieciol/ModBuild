@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ModBuild", "ModBuild.vcproj", "{A8625574-9CBD-4EBF-8843-57543AAD0457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		DLL Unicode Debug|Win32 = DLL Unicode Debug|Win32
+		DLL Unicode Release|Win32 = DLL Unicode Release|Win32
+		Unicode Debug|Win32 = Unicode Debug|Win32
+		Unicode Release|Win32 = Unicode Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8625574-9CBD-4EBF-8843-57543AAD0457}.DLL Unicode Debug|Win32.ActiveCfg = DLL Unicode Debug|Win32
+		{A8625574-9CBD-4EBF-8843-57543AAD0457}.DLL Unicode Debug|Win32.Build.0 = DLL Unicode Debug|Win32
+		{A8625574-9CBD-4EBF-8843-57543AAD0457}.DLL Unicode Release|Win32.ActiveCfg = DLL Unicode Release|Win32
+		{A8625574-9CBD-4EBF-8843-57543AAD0457}.DLL Unicode Release|Win32.Build.0 = DLL Unicode Release|Win32
+		{A8625574-9CBD-4EBF-8843-57543AAD0457}.DLL Universal Debug|Win32.ActiveCfg = DLL Universal Debug|Win32
+		{A8625574-9CBD-4EBF-8843-57543AAD0457}.Unicode Debug|Win32.ActiveCfg = Unicode Debug|Win32
+		{A8625574-9CBD-4EBF-8843-57543AAD0457}.Unicode Debug|Win32.Build.0 = Unicode Debug|Win32
+		{A8625574-9CBD-4EBF-8843-57543AAD0457}.Unicode Release|Win32.ActiveCfg = Unicode Release|Win32
+		{A8625574-9CBD-4EBF-8843-57543AAD0457}.Unicode Release|Win32.Build.0 = Unicode Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

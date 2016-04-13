@@ -7,5 +7,5 @@ For list of actions see:
 * https://github.com/roman-dzieciol/ModBuild/blob/master/ModBuild.xsd
 * https://github.com/roman-dzieciol/ModBuild/blob/master/ModBuildActions.xml
 
-Used to produce installers for the Gunreal project
-https://github.com/roman-dzieciol/Gunreal/tree/master/GunrealDEV/Installer
+Used to produce installers for the Gunreal project:
+* https://github.com/roman-dzieciol/Gunreal/tree/master/GunrealDEV/Installer
